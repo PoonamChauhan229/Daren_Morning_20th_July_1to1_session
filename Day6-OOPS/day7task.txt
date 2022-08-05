@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/12wAX28odaaCy4IWdlX3QQ3LOrBB3UXLsMD99X1Ve1Uc/edit
-
 
 Class - Movie
 The class Movie is stated below. An instance of class Movie represents a film. This class has the following three properties:
